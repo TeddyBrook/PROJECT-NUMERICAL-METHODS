@@ -1,0 +1,57 @@
+.root-header {
+  height: 75px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  border-bottom: 2px solid #C6C6C6;
+}
+
+.rooteq-course-div {
+  margin-left: 4rem;
+  margin-right: 3rem;
+  display: block;
+}
+
+.bt_calculate {
+  background-color: #7d0f3f;
+  color: white;
+  font-size: 15px;
+  margin-left: 5rem;
+  margin-top: 1.5rem;
+  display: block;
+  width: 120px;
+  height: 50px;
+  border-radius: 10px;
+}
+
+.rooteq-block {
+  display: block;
+}
+
+table {
+  color: white;
+  width: 50%;
+  text-align: center;
+  margin: auto;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+
+table th {
+  background-color: #0b2744;
+  color: white;
+  border: 1px solid black;
+  padding: 8px;
+  text-align: center;
+}
+
+table td {
+  background-color: #cfe2f3;
+  color: black;
+  border: 1px solid white;
+  padding: 8px;
+  text-align: left;
+}
